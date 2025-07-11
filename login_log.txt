@@ -1,0 +1,162 @@
+Username: ajay has logged in successfully using the password: 2001.
+Accessed file accessing.
+New Entry: 
+Login attempt from ajay
+
+New Entry: 
+Login attempt from ajay
+Username: ajay has logged in successfully using the password: 2001.
+Accessed file accessing.
+New Entry: 
+
+Login attempt from ajay
+
+New Entry: 
+
+Login attempt from amos
+Failed login attempt 1.
+ Wrong username entered
+Username: ajay has logged in successfully using the password: 2001.
+Accessed file accessing.
+New Entry: 
+Login attempt from ajay
+
+New Entry: 
+Login attempt from ajay
+
+
+New Entry: 
+Login attempt from ajay
+
+
+New Entry: 
+Login attempt from amos
+Failed login attempt 2.
+Wrong username entered.
+
+
+New Entry: 
+Login attempt from amos
+Failed login attempt 1. Wrong username entered.
+Username: ajay has logged in successfully using the password: 2001.
+Accessed file accessing.
+
+New Entry: 
+Login attempt from ajay
+
+
+New Entry: 
+Login attempt from ajay
+Username: ajay has logged in successfully using the password: 2001.
+Accessed file accessing.
+
+New Entry: 
+Login attempt from ajay
+
+
+New Entry: 
+Login attempt from ajay
+Wrong password attempt 1 for user ajay.
+Username: ajay has logged in successfully using the password: 2001.
+Accessed file accessing.
+
+New Entry: 
+Login attempt from ajay
+
+
+New Entry: 
+Login attempt from amos
+Failed login attempt 1. Wrong username entered.
+Wrong password attempt 1 for user ajay.
+Username: ajay has logged in successfully using the password: 2001.
+Accessed file accessing.
+
+New Entry: 
+Login attempt from ajay
+
+
+New Entry: 
+Login attempt from amos
+Failed login attempt 1. Wrong username entered.
+
+
+New Entry: 
+Login attempt from amos
+Failed login attempt 2. Wrong username entered.
+Wrong password attempt 1 for user ajay.
+Wrong password attempt 2 for user ajay.
+Username: ajay has logged in successfully using the password: 2001.
+Accessed file accessing.
+
+New Entry: 
+Login attempt from ajay
+Wrong password attempt 1 for user ajay.
+Wrong password attempt 2 for user ajay.
+Wrong password attempt 3 for user ajay.
+
+
+New Entry: 
+Login attempt from ajay
+
+
+New Entry: 
+Login attempt from ajay
+Wrong password attempt 1 for user ajay.
+Wrong password attempt 2 for user ajay.
+Wrong password attempt 3 for user ajay.
+
+
+New Entry: 
+Login attempt from 2007
+Failed login attempt 1. Wrong username entered.
+
+
+New Entry: 
+Login attempt from 2007
+Failed login attempt 2. Wrong username entered.
+
+
+New Entry: 
+Login attempt from 2007
+Failed login attempt 3. Wrong username entered.
+Login failed. User locked out after 3 unsuccessful attempts.
+
+
+New Entry: 
+Login attempt from ajay
+Wrong password attempt 1 for user ajay.
+Wrong password attempt 2 for user ajay.
+Wrong password attempt 3 for user ajay.
+
+
+New Entry: 
+Login attempt from ajay
+Username: ajay has logged in successfully using the password: 2001.
+Accessed file accessing.
+
+New Entry: 
+Login attempt from ajay
+Username: ajay has logged in successfully using the password: 2001.
+Accessed granted.
+
+New Entry: 
+Login attempt from ajay
+Username: ajay has logged in successfully using the password: 2001.
+Accessed successfully.
+
+New Entry: 
+Login attempt from ajay
+Wrong password attempt 1 for user ajay.
+Wrong password attempt 2 for user ajay.
+Wrong password attempt 3 for user ajay.
+
+
+New Entry: 
+Login attempt from Amos
+Failed login attempt 1. Wrong username entered.
+
+
+New Entry: 
+Login attempt from Ajay
+Username: Ajay has logged in successfully using the password: Ajay2001.
+Accessed file accessing.
